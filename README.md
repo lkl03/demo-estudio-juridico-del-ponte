@@ -1,2 +1,7 @@
-# demo-estudio-juridico-del-ponte
-Demo web para Estudio Jurídico Del Ponte — diseñada por eterlab.
+# Estudio Jurídico Del Ponte
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
